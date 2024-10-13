@@ -1,0 +1,1 @@
+C:\Users\giova\Code\visualcodeprojects\MauiAppMeuCombustivel\MauiAppMeuCombustivel\MauiAppMeuCombustivel.csproj;x64
